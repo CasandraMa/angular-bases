@@ -7,8 +7,6 @@ import { ListComponent } from "./list/list.component";
 
 
 
-
-
 @NgModule({
   declarations: [
     HeroComponent,
